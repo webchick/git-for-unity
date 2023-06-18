@@ -18,7 +18,7 @@ Back in the Package Manager (Window > Package Manager) change `Packages: Unity R
 
 ![Screen Shot 2022-10-19 at 19 05 54](https://user-images.githubusercontent.com/310137/196757921-57d29b3f-3376-45ba-8476-c5e1f1c505b6.png)
 
-Once installed, make sure the paths to git and git lfs are configured correctly by opening the Git window and going to the Settings tab.
+Once installed, make sure the paths to git and [git lfs](https://git-lfs.com/) are configured correctly by opening the Git window and going to the Settings tab.
 
 ![image](https://user-images.githubusercontent.com/310137/196758333-178c9561-77fa-4d5b-8ee4-7113c4d8a1dd.png)
 
