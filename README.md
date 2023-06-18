@@ -10,7 +10,7 @@ This is a fork of [Git for Unity](https://github.com/unity-technologies/git-for-
 
 ### Quick install
 
-To install the latest package release, add a new scoped registry in the Package Manager settings (Window > Package Manager in Unity), with url `https://registry.spoiledcat.com` and scope `com.spoiledcat`
+To install the latest package release, add a new scoped registry in the Package Manager settings (Window > Package Manager > (gear) > Advanced Project Settings in Unity), with url `https://registry.spoiledcat.com` and scope `com.spoiledcat`
 
 ![Screen Shot 2022-10-19 at 17 07 10](https://user-images.githubusercontent.com/310137/196755895-a2865ae3-70bd-45cc-816d-535b46f09034.png)
 
