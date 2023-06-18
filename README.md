@@ -14,7 +14,7 @@ To install the latest package release, add a new scoped registry in the Package 
 
 ![Screen Shot 2022-10-19 at 17 07 10](https://user-images.githubusercontent.com/310137/196755895-a2865ae3-70bd-45cc-816d-535b46f09034.png)
 
-In the `My Registries` section, install the `Git for Unity` package
+Back in the Package Manager (Window > Package Manager) change `Packages: Unity Registry` to `My Registries`. Install the `Git for Unity` package.
 
 ![Screen Shot 2022-10-19 at 19 05 54](https://user-images.githubusercontent.com/310137/196757921-57d29b3f-3376-45ba-8476-c5e1f1c505b6.png)
 
